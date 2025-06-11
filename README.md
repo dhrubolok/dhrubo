@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=dhrubo&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=dhrubolok&color=red)
 
 Skills:  REACT / JS / HTML / CSS
 
@@ -16,7 +16,7 @@ Skills:  REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning javascrript,html,css
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhrubo](https://github.com/dhrubo)
+- 👨‍💻 All of my projects are available at [https://github.com/dhrubo](https://github.com/dhrubolok)
 
 -
 
